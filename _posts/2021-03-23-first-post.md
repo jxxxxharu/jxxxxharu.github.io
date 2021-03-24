@@ -4,14 +4,14 @@ excerpt: "앞으로 프로그래밍 공부를 기록하기 위해 GitHub Blog를
 
 categories:
   - Blog
-    tags:
-      - [Git, GitHub, GitHub Pages, Jekyll, Ruby]
+tags:
+  - [Git, GitHub, GitHub Pages, Jekyll, Ruby]
     
-    toc: true
-    toc_sticky: false
+toc: true
+toc_sticky: false
 
-    date: 2021-03-23
-    last_modified_at: 2021-03-24
+date: 2021-03-23
+last_modified_at: 2021-03-24
 ---
 
  **GitHub Pages**는 GitHub에서 제공하는 정적 웹 사이트로, GitHub repository에 웹 리소스를 push하는 것만으로 간단히 웹사이트를 만들 수 있다. GitHub 저장소에 저장된 html 파일 등의 정적 웹 문서들을 GitHub에서 무료로 웹에서 볼 수 있도록 호스팅 서비스를 제공해주는 것이다.  
